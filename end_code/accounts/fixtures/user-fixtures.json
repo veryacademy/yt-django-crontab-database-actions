@@ -1,0 +1,14 @@
+[
+{ "model": "auth.user",
+    "pk": 1001,
+    "fields":{
+      "username": "user1",
+      "password": "pbkdf2_sha256$260000$KfZ2hspAeA8KhAAJ8mKpjw$60ajS7y4Fw72yg+DzZQADfUsUs4l3MJuhABupfjQ3z0=",
+      "email": "100@user.com",
+      "is_superuser": true,
+      "is_staff": true,
+      "is_active": false,
+      "date_joined": "2020-08-10 13:16:34.504287"
+    }
+}
+]
